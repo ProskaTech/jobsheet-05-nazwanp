@@ -1,4 +1,4 @@
-## Createb by 21343061_Nazwa Nurfadhilla Phitri
+## Created by 21343061_Nazwa Nurfadhilla Phitri
 Pada Jobsheet 5 ini kita mempelajari Kelas Scanner, Kelas Bufferedreader dan Kelas JOptionpPane.
 Untuk bisa menggunakan kelas tersebut kita harus mengimportnya terlebih dahulu kedalam program yaitu dengan cara :
 Untuk Kelas Scanner berada pada paket java.util maka cara importnya adalah import java.util.Scanner;
